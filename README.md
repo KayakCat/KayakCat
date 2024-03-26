@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KayakCat
 - 👀 I’m interested in hiking and camping
-- 🌱 I’m currently learning HTML, JAVASCRIPT, AND PYTHON
+- 🌱 I’m currently learning HTML, JAVASCRIPT, CSS, C#, and SQL
 - 💞️ I’m looking to collaborate on anything that people would be interested in me joining them to create
 - 📫 How to reach me ...is there a place on here to message back and forth?
 - 😄 Pronouns: she/her
